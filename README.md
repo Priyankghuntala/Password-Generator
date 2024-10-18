@@ -22,3 +22,18 @@ Password Generator is a versatile online tool designed to help you create strong
 - Personal Use: Secure your online accounts, such as email, social media, and banking.
 - Business Use: Protect sensitive company data and systems.
 - Educational Purposes: Demonstrate password security best practices.
+
+## 🛠 Installation in kali linux
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Priyankghuntala/Password-Generator.git
+2. Change The Directory
+   ```bash
+   cd Password-Generator
+3. Set All Permission 
+   ```bash
+   chmod +x Password-Generator.py
+4. Run Tool
+   ```bash
+   python3 Password-Generator.py 
