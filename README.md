@@ -4,11 +4,11 @@ Password Generator is a versatile online tool designed to help you create strong
 
 ## Key Features:
 
-Customization: Choose the desired password length and complexity level to suit your specific security needs.
-Character Sets: Select from various character sets, including lowercase and uppercase letters, numbers, and special symbols, to create highly randomized passwords.
-Clipboard Integration: Easily copy the generated password to your clipboard for convenient use in login forms or other applications.
-Password Strength Indicator: Get instant feedback on the strength of your generated password, ensuring that it meets industry-standard security guidelines.
-Bulk Password Generation: Create multiple passwords at once for enhanced efficiency and convenience.
+- Customization: Choose the desired password length and complexity level to suit your specific security needs.
+- Character Sets: Select from various character sets, including lowercase and uppercase letters, numbers, and special symbols, to create highly randomized passwords.
+- Clipboard Integration: Easily copy the generated password to your clipboard for convenient use in login forms or other applications.
+- Password Strength Indicator: Get instant feedback on the strength of your generated password, ensuring that it meets industry-standard security guidelines.
+- Bulk Password Generation: Create multiple passwords at once for enhanced efficiency and convenience.
 
 ## Benefits:
 
